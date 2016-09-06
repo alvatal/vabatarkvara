@@ -1,10 +1,79 @@
-Julgustame kasutama OpenDocument'i vorminguid - https://et.wikipedia.org/wiki/OpenDocument
-Seda soovitab väga ka MKM koosvõime raamistik - https://www.mkm.ee/et/riigi-infosusteemi-koosvoime-raamistik ja selle dokument "Riigi IT arhitektuur" lk 38 alates - https://www.mkm.ee/sites/default/files/riigi_it_arhitektuur.pdf
-Microsofti suletud ja patenteeritud failivormingud on väga problemaatilised ja ühildamatud ning sunnivad kasutajatele peale kallist Microsofti tarkvara ega ole absoluutselt soovitatud koosvõime raamistiku kaudu. Kui inimestel seda kallist Microsofti tarkvara raha osta ei ole siis kiputakse illegaalselt kasutama, mis aga on kuritegu. Ei ole mõistlik inimesi ahvatleda/sundida kuriteole - seetõttu on mõistlik kasutada vabatarkvara ja seda teistelegi soovitada. Muuhulgas on olemas täislahendus kogu haridusasutuse jaoks - http://alvatal.ee/edu/ - seda on Tallinna haridusasutustes ka kasutatud kuid otsustajate ignorantsuse tõttu ei ole see info veel väga levinud. Siinkohal on julgustatud sõna levitama.
-See on iga koolijuhi otsustada kas ta maksab oma niigi napist eelarvest kasumit USA tarkvaraettevõtetele või kasutab vabatarkvara, mida paljud haridusasutused üle maailma juba ammu kasutavad. Siin ei maksa oodata, et Eesti riik midagi ära teeks (kuigi on tehtud 5 riigihanget vabatarkvara teemadel ent need on jäänud suuresti paberile kuna ei ole aru saadud nende väärtustest) - tuleb ise "härjal sarvist" haarata ja täna Microsoftile mineva raha eest võtta hoopis vabatarkvara kasutusele, mis nii lühemas kui pikemas perspektiivis tuleb muuhulgas ka rahaliselt odavam kuid reaalselt on palju üllamad väärtused, mida võimalus õpetada hariduses läbi vabatarkvara - üksteise aitamine, toetamine jne, täpsemalt on kirjeldatud https://www.gnu.org/education/ 
-Kui raha välismaale maksmise asemel jätta see kodumaale siis on selle abil võimalik luua uusi töökohti ja pakkuda inimestele tööd Eestis ja nii ei pea inimesed lahkuma kodumaalt. Seeläbi on võimalik Eesti riiki paremini üles ehitada kui ressursse välismaale ei viida.
-Lisaks on vabatarkvara abil saavutatav oluliselt parem küberturvalisus, mis üha probleemsem teema seoses MS Windows'i üha ebaturvalisemaks muutumisega ja vaatamata sellele veel laialdasele kasutamisele - https://www.ria.ee/ee/kuberturve.html - sealt tasub vaadata vasakul olevaid alapealkirju, eriti "Küberturvalisuse kokkuvõtted" - https://www.ria.ee/ee/kuberturvalisuse-kokkuvotted.html - need probleemid on suuresti seetõttu kasvamas kuna MS Windowsi turvalisus on allapoole igasugust arvestust. Paraku ei teadvustata seda ega taheta sellega tegeleda. Samuti arvatakse, et kui kellelegi teisele maksame siis see "keegi teine" tegeleb turvalisuse jms probleemidega. Paraku ei tegele kuid raha võetakse muidugi meelsasti vastu.
-Tuleb küsida, et millised väärtused on siis olulised - kas privaatsus, turvalisus on olulised? Kas üksteise aitamine, legaalsus (tarkvara mittevarastamine) on olulised? Kas vabadus ja sõltumatus on olulised? Kas infoühiskonna (sh hariduse) võimaldamine kõikidele võrdsetel alustel ehk jäädavalt tasuta on oluline? Kas uute töökohtade loomine, IT-riigile kohaste ekspordiartiklite loomine ja ressursside Eestisse jätmine oma riigi edendamiseks on oluline? Kui jah siis on vabatarkvara seda kõike pakkumas ja seejuures jäädavalt tasuta.
-Arvutipõhise kontoritarkvarana on soovitav kasutada LibreOffice'it - http://libreoffice.ee/laadi-alla/ - see on ja jääb tasuta ning võimalus ka õpilastele legaalselt jagada nagu ka kõike muud vabatarkvara.
-Väga soovitav on kasutada pilvepõhist tarkvara - siis on kõigile sama tarkvara ja failivormingud veebipõhiselt kättesaadavad, nt Open365 - https://open365.io/ - seal 20 GB tasuta kettaruumi ja on hea vabatarkvaraline alternatiiv tasulisele Office365'le.
-Ka Google Apps EDU on haridusasutustele jäädavalt tasuta ja seejuures piiramatu kettaruumiga (5 või rohkem kasutaja korral) - http://goo.gl/L8KuKE
+Julgustame kasutama OpenDocument'i vorminguid:
+https://et.wikipedia.org/wiki/OpenDocument
+
+Seda soovitab väga ka MKM koosvõime raamistik:
+https://www.mkm.ee/et/riigi-infosusteemi-koosvoime-raamistik
+ja selle dokument "Riigi IT arhitektuur" lk 38 alates:
+https://www.mkm.ee/sites/default/files/riigi_it_arhitektuur.pdf
+
+Microsofti suletud ja patenteeritud failivormingud on väga
+problemaatilised ja ühildamatud ning sunnivad kasutajatele peale
+kallist Microsofti tarkvara ega ole absoluutselt soovitatud koosvõime
+raamistiku kaudu. Kui inimestel seda kallist Microsofti tarkvara raha
+osta ei ole siis kiputakse illegaalselt kasutama, mis aga on kuritegu.
+
+Ei ole mõistlik inimesi ahvatleda/sundida kuriteole - seetõttu on
+mõistlik kasutada vabatarkvara ja seda teistelegi soovitada. 
+
+Muuhulgas on olemas täislahendus kogu haridusasutuse jaoks
+http://alvatal.ee/edu/
+Seda on Tallinna haridusasutustes ka kasutatud kuid otsustajate
+ignorantsuse tõttu ei ole see info veel väga levinud.
+Siinkohal on julgustatud sõna levitama.
+
+See on iga koolijuhi otsustada kas ta maksab oma niigi napist
+eelarvest kasumit USA tarkvaraettevõtetele või kasutab vabatarkvara,
+mida paljud haridusasutused üle maailma juba ammu kasutavad.
+
+Siin ei maksa oodata, et Eesti riik midagi ära teeks (kuigi on tehtud
+5 riigihanget vabatarkvara teemadel ent need on jäänud suuresti
+paberile kuna ei ole aru saadud nende väärtustest)
+- tuleb ise "härjal sarvist" haarata ja täna Microsoftile mineva
+raha eest võtta hoopis vabatarkvara kasutusele, mis nii lühemas
+kui pikemas perspektiivis tuleb muuhulgas ka rahaliselt odavam kuid
+reaalselt on palju üllamad väärtused, mida võimalus õpetada hariduses
+läbi vabatarkvara - üksteise aitamine, toetamine jne, täpsemalt on
+kirjeldatud https://www.gnu.org/education/ 
+
+Kui raha välismaale maksmise asemel jätta see kodumaale siis on selle
+abil võimalik luua uusi töökohti ja pakkuda inimestele tööd Eestis ja
+nii ei pea inimesed lahkuma kodumaalt. Seeläbi on võimalik Eesti riiki
+paremini üles ehitada kui ressursse välismaale ei viida.
+
+Lisaks on vabatarkvara abil saavutatav oluliselt parem küberturvalisus,
+mis üha probleemsem teema seoses MS Windows'i üha ebaturvalisemaks
+muutumisega ja vaatamata sellele veel laialdasele kasutamisele
+- https://www.ria.ee/ee/kuberturve.html - sealt tasub vaadata vasakul
+olevaid alapealkirju, eriti "Küberturvalisuse kokkuvõtted"
+- https://www.ria.ee/ee/kuberturvalisuse-kokkuvotted.html
+- need probleemid on suuresti seetõttu kasvamas kuna MS Windowsi
+turvalisus on allapoole igasugust arvestust. Paraku ei teadvustata
+seda ega taheta sellega tegeleda.
+
+Samuti arvatakse, et kui kellelegi teisele maksame siis see
+"keegi teine" tegeleb turvalisuse jms probleemidega.
+Paraku ei tegele kuid raha võetakse muidugi meelsasti vastu.
+
+Tuleb küsida, et millised väärtused on siis olulised - kas privaatsus,
+turvalisus on olulised? Kas üksteise aitamine, legaalsus
+(tarkvara mittevarastamine) on olulised?
+Kas vabadus ja sõltumatus on olulised?
+Kas infoühiskonna (sh hariduse) võimaldamine kõikidele võrdsetel
+alustel ehk jäädavalt tasuta on oluline?
+Kas uute töökohtade loomine, IT-riigile kohaste ekspordiartiklite
+loomine ja ressursside Eestisse jätmine oma riigi edendamiseks
+on oluline? Kui jah siis on vabatarkvara seda kõike pakkumas ja
+seejuures jäädavalt tasuta.
+
+Arvutipõhise kontoritarkvarana on soovitav kasutada LibreOffice'it
+- http://libreoffice.ee/laadi-alla/ - see on ja jääb tasuta ning 
+võimalus ka õpilastele legaalselt jagada nagu ka kõike muud vabatarkvara.
+
+Väga soovitav on kasutada pilvepõhist tarkvara - siis on kõigile sama
+tarkvara ja failivormingud veebipõhiselt kättesaadavad,
+nt Open365 - https://open365.io/ - seal 20 GB tasuta kettaruumi
+ja on hea vabatarkvaraline alternatiiv tasulisele Office365'le.
+
+Ka Google Apps EDU on haridusasutustele jäädavalt tasuta ja
+seejuures piiramatu kettaruumiga (5 või rohkem kasutaja korral)
+- http://goo.gl/L8KuKE
